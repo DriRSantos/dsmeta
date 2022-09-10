@@ -7,3 +7,6 @@ Front end estático - criar projetos backend e frontend, salvar os projeto no Gi
 Back end completo - implementar o back end, acesso a banco de dados, criar endpoints da API REST, integração com SMS, e implantação na nuvem.
 
 Integração - integrar back end e front end, e implantar o front end.
+
+
+HTML e CSS criado com Figma no projeto <a href="https://github.com/DriRSantos/dsmeta-css"> dsmeta-CSS</a>.
